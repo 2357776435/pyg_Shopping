@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../casDemo1" />
+    <file type="web" url="file://$PROJECT_DIR$/../casDemo2" />
+    <file type="web" url="file://$PROJECT_DIR$/service_buyer" />
+    <file type="web" url="file://$PROJECT_DIR$/service_page" />
+    <file type="web" url="file://$PROJECT_DIR$/service_searchs" />
+    <file type="web" url="file://$PROJECT_DIR$/service_sellergoods" />
+    <file type="web" url="file://$PROJECT_DIR$/service_user" />
+    <file type="web" url="file://$PROJECT_DIR$/web_manager" />
+    <file type="web" url="file://$PROJECT_DIR$/web_portal" />
+    <file type="web" url="file://$PROJECT_DIR$/web_shop" />
+    <file type="web" url="file://$PROJECT_DIR$/web_user" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../fastDFSDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/../springDataRedisDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/../springDataSolrDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/../freemarkerDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/../activeMqDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/../springbootDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/../sgw_sms/pom.xml" />
+        <option value="$PROJECT_DIR$/../casDemo1/pom.xml" />
+        <option value="$PROJECT_DIR$/../casDemo2/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/service_search/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

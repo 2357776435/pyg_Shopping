@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="solrj">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../solrjDemo/lib/commons-io-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../solrjDemo/lib/httpclient-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../solrjDemo/lib/httpcore-4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../solrjDemo/lib/httpmime-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../solrjDemo/lib/jcl-over-slf4j-1.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../solrjDemo/lib/jul-to-slf4j-1.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../solrjDemo/lib/junit-4.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../solrjDemo/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../solrjDemo/lib/noggit-0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../solrjDemo/lib/slf4j-api-1.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../solrjDemo/lib/slf4j-log4j12-1.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../solrjDemo/lib/solr-solrj-4.10.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../solrjDemo/lib/wstx-asl-3.2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../solrjDemo/lib/zookeeper-3.4.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

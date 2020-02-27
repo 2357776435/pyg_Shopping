@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../activeMqDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../activeMqDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../casDemo1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../casDemo1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../casDemo2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../casDemo2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../fastDFSDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../fastDFSDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../freemarkerDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../freemarkerDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pojo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pojo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_buyer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_buyer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_page/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_page/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_searchs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_searchs/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_sellergoods/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_sellergoods/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solr-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solr-util/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web_manager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web_manager/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web_portal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web_portal/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web_shop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web_shop/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web_user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web_user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../sgw_sms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../sgw_sms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springDataRedisDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springDataRedisDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springDataSolrDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springDataSolrDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springbootDemo/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
